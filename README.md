@@ -1,4 +1,4 @@
-# ComboSorter #Only4ThoseWhoKnows
+# ComboSorter ~ #Only4ThoseWhoKnows
 
 `ComboSorter` is a Python utility designed to efficiently sort and organize email-password combinations, commonly referred to as "combos". This tool reads from a list of combos in the format `email:password` and sorts them into separate files based on their email domain. It handles encoding errors gracefully and appends to existing files to avoid data loss.
 
